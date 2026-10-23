@@ -2,15 +2,17 @@ const surprise = {
   intro: 'Heyy.. I NEED TO SHARE A SMALL THING WITH YOU IN THIS MOMENT!!',
   title: 'Anaganaga Oka Ammmai....',
   paragraphs: [
-    'Anaganaga oka ammai... her name is Vineetha.',
-    'Ippudu Deloitte lo job kottesindi! Maybe koncham restrictions taggutai, respect perugutundi... and yeah, people start looking at you differently.',
-    'And... nen evarani niku cheppanu, cheppalenu. Not only for exams, I will be with you as a friend and comrade. You can share anything with me whenever you feel low. Maybe late ga reply ista emo, kani important situations oste, I’ll never give hand.',
-    'Koncham different ga undachu. You can say, “Naaku okadu telisinodu help chesevaadu unnadu... but vaadu evado teliyadu.” Different ga undi kada...',
-    'Sare... anyways, congooo for getting placed in Deloitte!',
-    'I can understand... oka girl brain lo enni things run avutai ani. But you still manage everything with strength and grace.',
-    'Ika selavu...'
+    'Anaganaga oka ammai... her name is Harshini…',
+    '“Unexpected connections often spark the most brilliant breakthroughs” antar kada, daniki best example idi… Ekkado Bhimavaram and ekkadooo Karimnagar… ala Telegram lo parichaym ayyam… Hmm… nice…',
+    'Starting nundi nannu trust cheskuntoo vachav… maybe nen edo magic chesta ani oooo, or edi ankunnavo I don’t know. Of course, ippatiki nen edo magic chesta ani ankuntav… ankuntunna…',
+    'Sare, anyways… motaniki job ochindi…',
+    'Kottesavv! Maybe koncham restrictions taggutai, respect perugutundi… and yeah, people start looking at you differently.',
+    'Exams and interviews… kadh, life lo ye problem ochina, I will be with you as a friend and comrade. You can share anything with me whenever you feel low. Maybe late ga reply ista emo, kani important situations oste, I’ll never give hand.',
+    'Sare… anyways, congooo for getting placed!',
+    'I can understand… oka girl brain lo enni things run avutai ani. But you still manage everything with strength and grace.',
+    'Ika selavu…'
   ],
-  signature: '— Comrade'
+  signature: 'Ni Comrade'
 };
 
 const screens = [...document.querySelectorAll('.screen')];
