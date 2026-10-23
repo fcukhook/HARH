@@ -1,10 +1,10 @@
 const surprise = {
-  intro: 'Heyy.. I NEED TO SHARE YOU A SMALL THING IN THIS MOMENT !!',
-  title: 'Anaganaga Oka Amai... Vineetha',
+  intro: 'Heyy.. I NEED TO SHARE A SMALL THING WITH YOU IN THIS MOMENT!!',
+  title: 'Anaganaga Oka Ammmai....',
   paragraphs: [
     'Anaganaga oka ammai... her name is Vineetha.',
     'Ippudu Deloitte lo job kottesindi! Maybe koncham restrictions taggutai, respect perugutundi... and yeah, people start looking at you differently.',
-    'And... nen evarani niku cheppanu, cheppalenu. Not only for exams, I will be with you as a friend and comrade. You can share anything with me whenever you feel low.',
+    'And... nen evarani niku cheppanu, cheppalenu. Not only for exams, I will be with you as a friend and comrade. You can share anything with me whenever you feel low. Maybe late ga reply ista emo, kani important situations oste, I’ll never give hand.',
     'Koncham different ga undachu. You can say, “Naaku okadu telisinodu help chesevaadu unnadu... but vaadu evado teliyadu.” Different ga undi kada...',
     'Sare... anyways, congooo for getting placed in Deloitte!',
     'I can understand... oka girl brain lo enni things run avutai ani. But you still manage everything with strength and grace.',
