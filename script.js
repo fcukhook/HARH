@@ -45,7 +45,7 @@ document.querySelector('[data-action="next"]').addEventListener('click', () => {
 });
 
 document.querySelector('[data-action="start"]').addEventListener('click', () => {
-  music.currentTime = 67;
+  music.currentTime = 60;
   music.play().catch(() => {});
   showScreen('letter');
 });
